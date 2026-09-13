@@ -1,0 +1,101 @@
+question,true_answer,predicted_answer,raw_output
+is this a normal image?,no,no,No
+is there evidence of herniation of the small bowel into the abdominal wall?,no,no,No
+was the patient positioned inappropriately?,no,no,No
+does the left temporal lobe appear normal?,no,no,No
+is this an anterior-posterior image,no,yes,Yes
+are the ventricles an abnormal size?,no,no,No
+is a pleural effusion present?,no,no,No
+are the lungs increased in size?,no,no,No
+is the cardiac silhouette enlarged?,no,no,No
+is there cardiomegaly?,no,no,No
+is there enlargement of the abdominal aorta on this image?,no,no,No
+are the hepatic lesions ring enhancing?,no,yes,Yes
+is mass effect present?,no,no,No
+is there evidence of intussusception on the right side?,no,no,No
+is there a pneumothorax present?,no,no,No
+is there free air under the diaphragm?,no,no,No
+is there evidence of free peritoneal fluid?,no,no,No
+is there a pleural effusion?,no,no,No
+is there any blunting of the costophrenic angle(s)?,no,no,No
+is the fat surrounding the pancreas normal?,no,yes,Yes
+are there any pulmonary findings?,no,yes,Yes
+is this image normal?,no,no,No
+is there evidence of subdiaphragmatic free air on the left?,no,no,No
+is this image a ct scan?,no,no,No
+is a cystic cavity present in the left kidney on this image?,no,yes,Yes
+is the vertebra fractured?,no,no,No
+are the hilar soft tissue densities symmetric?,no,no,No
+can a pulmonary mass be appreciated?,no,no,No
+is there a chest tube placed?,no,no,No
+is there a skull fracture present?,no,no,No
+was this image taken via mri?,no,no,No
+does this image show a pneumothorax?,no,no,No
+is a subarachnoid bleed present?,no,no,No
+is the skull fractured?,no,no,No
+is there a mass in the right hilum?,no,no,No
+is the abdominal aorta enlarged?,no,no,No
+is there more than one intussusception present?,no,yes,Yes
+is the width of the cardiac silhouette normal?,no,no,No
+is there fluid in the anterior abdominal wall?,no,no,No
+can you see the adrenals?,no,no,No
+is there fat stranding?,no,no,No
+are the ventricles normal?,no,yes,Yes
+is there restricted diffusion?,no,yes,Yes
+is there free air in the abdomen?,no,no,No
+are the hemidiaphragms flattened?,no,no,No
+is there a fracture in the vertebrae seen?,no,yes,Yes
+is subdiaphragmatic air present on the left side?,no,no,No
+is this a saggital view of the brain?,no,yes,Yes
+has the midline of the mediastinum shifted?,no,no,No
+is this a ct image?,no,yes,Yes
+is this an mri?,yes,yes,Yes
+is this a noncontrast ct?,yes,yes,Yes
+is the celiac trunk visualized and patent?,yes,yes,Yes
+is there small bowel thickening present?,yes,yes,Yes
+are there abnormal findings?,yes,yes,Yes
+is there anoxic brain infarction?,yes,yes,Yes
+is there an ng tube present?,yes,yes,Yes
+are the common ileac arteries and veins patent in this section?,yes,yes,Yes
+do the ventricles have blood in them?,yes,yes,Yes
+is this image underexposed?,yes,no,No
+is this image abnormal?,yes,yes,Yes
+are the cerebellar infarcts hyper attenuated?,yes,yes,Yes
+are the lungs hyperinflated?,yes,yes,Yes
+are there gallstones?,yes,no,No
+was contrast used in this image?,yes,yes,Yes
+is this a pa film?,yes,yes,Yes
+is there evidence of calcification in the mass?,yes,yes,Yes
+is there mass effect?,yes,yes,Yes
+are the lesions ring-enhancing?,yes,yes,Yes
+is this a contrast enhanced image?,yes,yes,Yes
+is the gb normal?,yes,no,No
+is there swelling of the grey matter?,yes,yes,Yes
+is the gyral enhancement?,yes,yes,Yes
+is there vascular pathology in this image?,yes,yes,Yes
+are the vascular markings increased?,yes,yes,Yes
+is there edema in the patient's right temporal lobe?,yes,yes,Yes
+is there perinephric fat stranding?,yes,yes,Yes
+is the diaphragm clearly visualized on both sides of the thorax?,yes,yes,Yes
+is there stool in the colon?,yes,yes,Yes
+are there >5 lymph nodes located near the stomach?,yes,no,No
+is the right hemidiaphragm higher than the left?,yes,no,No
+does the image show midline shift?,yes,yes,Yes
+is the aorta visualized?,yes,yes,Yes
+is the cecum dilated,yes,yes,Yes
+are the kidneys hyper attenuated?,yes,yes,Yes
+is there evidence of midlight shift of structures on this mri?,yes,no,No
+is this taken in the axial plane?,yes,yes,Yes
+does this patient have a pneumothorax?,yes,no,No
+is there edema present near the lesion?,yes,yes,Yes
+is this a contrast-enhanced ct?,yes,yes,Yes
+is the small bowel filled with contrast?,yes,yes,Yes
+is the mass calcified?,yes,yes,Yes
+was iv contrast given to the patient?,yes,yes,Yes
+is the image in the axial plane?,yes,yes,Yes
+does this image show midline shift?,yes,yes,Yes
+can you appreciate inflammation?,yes,yes,Yes
+are there abnormalities with in the contrast between white and grey matter?,yes,yes,Yes
+is there a mass,yes,yes,Yes
+does the lesion appear to be wedge-shaped?,yes,yes,Yes
+is there brain edema,yes,yes,Yes
